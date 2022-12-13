@@ -33,3 +33,4 @@ let thukinh = (idGlasses) => {
     });
     document.getElementById("avatar").innerHTML = content;
 }
+window.thukinh = thukinh;
